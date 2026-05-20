@@ -3,11 +3,6 @@
 
 以下のファイルをダウンロードしてください。
 
-### 昨日の結果
-リンク先のファイルを各自でダウンロードしてください。
-
-[昨日の結果ファイル](https://github.com/pomology-ku/student-exp/blob/main/data/miscellaneous/250520.zip)
-
 ### Linux
 `右クリック -> 名前を付けて保存` で保存
 
